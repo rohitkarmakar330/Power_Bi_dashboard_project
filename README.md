@@ -1,4 +1,2 @@
 # Power_Bi_dashboard_project
-The goal of this project is to analyze financial performance across different
-countries, products, and time periods, using key financial metrics such as sales, profit,
-cost of goods sold (COGS), and discounts.
+The goal of this project is to build end-to-end analytics solutions across finance, sales, supply chain, and stock market domains—enabling businesses to transform raw data into actionable insights. This includes data cleaning, data modeling, DAX/SQL measure development, financial performance analysis (margins, costs, discounts, profitability), and fully automated KPI dashboards (Power BI / SQL / Excel) designed to support accurate decision-making and improve operational efficiency.
